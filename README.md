@@ -1,1 +1,8 @@
-# 6D-Pose-Estimation-for-Virtual-Try-On
+# 6D Pose Estimation for Virtual Try-On
+
+
+
+
+
+## References
+1. https://medium.com/@prlkp/robot-pick-up-my-headphones-6d-multi-object-pose-estimation-using-casapose-deep-learning-model-a1a76a11559b

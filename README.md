@@ -1,5 +1,4 @@
-# 6D Pose Estimation for Virtual Try-On
-
+# 6D Pose Estimation
 
 
 
